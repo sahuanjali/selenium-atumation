@@ -16,6 +16,7 @@ public class ColorIdentificaion {
 			System.setProperty("webdriver.chrome.driver", "E:\\CareerUSA\\Selenium\\chromedriver.exe");
 				
 				WebDriver cd = new ChromeDriver();
+				//new url added for testing
 				cd.get("http://newtours.demoaut.com/");
 				
 				cd.manage().window().maximize();
