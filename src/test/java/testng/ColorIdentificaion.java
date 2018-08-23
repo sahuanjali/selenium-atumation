@@ -13,6 +13,7 @@ public class ColorIdentificaion {
 		
 
 			  //System.out.println("launch");
+				//Test Push
 			System.setProperty("webdriver.chrome.driver", "E:\\CareerUSA\\Selenium\\chromedriver.exe");
 				
 				WebDriver cd = new ChromeDriver();
